@@ -1,8 +1,6 @@
-Hi, I’m [Yania](https://nadayania.wordpress.com/yania-nada/) 👋 
+Hi, I’m [Yania](https://nadayania.wordpress.com/yania-nada/) 👋 An analyst specializing in Data Science who believes that data can help create a better world 🌏
 
 📍 Barcelona
- 
-I’m an Analyst specializing in Data Science who believes that data can help create a better world 🌏
 
 
 🌱 About me: 
@@ -13,7 +11,7 @@ I'm a life-long learner who believes in building solid foundations before diving
 🔭 Looking to collaborate on: Projects involving data analysis, visualization, and model training where I can apply and enhance my skills in Python and Machine Learning. To deepen my understanding and proficiency in Python and ML models for more advanced data manipulation, analysis, and predictions.
 
 
-📬 How to reach me: Linkedin(https://www.linkedin.com/in/yanianada/) or email nadayania@gmail.com
+📬 How to reach me: [Linkedin](https://www.linkedin.com/in/yanianada/) or email me: nadayania@gmail.com
 
 
 🌟 Career highlights:
@@ -26,10 +24,10 @@ I'm a life-long learner who believes in building solid foundations before diving
 
 My toolkit includes a blend of analytics tools and programming languages:
 
-- BI Tools: Tableau, PowerBi
+- BI Tools: [Tableau portfolio](https://public.tableau.com/app/profile/yania.nada/vizzes), PowerBi
 - Data Processing: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), MS-Excel
 - Database Management: SQL
-📊[Tableau portfolio](https://public.tableau.com/app/profile/yania.nada/vizzes)
+
 
 🎓 Education:
 
