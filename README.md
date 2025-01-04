@@ -1,4 +1,4 @@
-Hi, I’m [Yania](https://nadayania.wordpress.com/yania-nada/) 👋 An analyst specializing in Data Science who is passionate about harnessing the power of data to solve real-world problems. I believe data can help create a better world 🌏
+Hi, I’m [Yania](https://nadayania.wordpress.com/yania-nada/) 👋 Currently specializing in Data Science, I'm passionate about harnessing the power of data to solve real-world problems. I believe data can help create a better world 🌏
 
 📍 Barcelona
 
