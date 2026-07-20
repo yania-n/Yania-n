@@ -13,8 +13,10 @@ Aside from this GitHub repository you can find some other projects in my Tableau
 
 - Visualization projects done to understand the capability of Tableau: [Tableau portfolio](https://public.tableau.com/app/profile/yania.nada/vizzes)
 - AI projects done to understand capability of agentic systems: [Hugging Face](https://huggingface.co/yania-n)
+
+ _ If there's any project that interests you and you'd like to learn more about it, feel free to DM me on _ [Linkedin](https://www.linkedin.com/in/yanianada/).
   
-I also enjoy participating in presencial workshops to learn and expand my knowledge :)
+I also enjoy sharing my knowledge and participating in presencial workshops to learn and expand my knowledge :)
 
 
 🌟 Career highlights:
@@ -25,7 +27,7 @@ I also enjoy participating in presencial workshops to learn and expand my knowle
 
 I'm a self-taught data scientist, currently wearing the hat of a product owner. And yes, I call myself a data scientist because I define myself by my skills not by the job title I carry. (A friend once said to me, "your job title doesn't define your skills. It only tells - how you get paid.")
 
-📬 How to reach me: [Linkedin](https://www.linkedin.com/in/yanianada/) or email me: nadayania@gmail.com
+
 
 <!---
 YaniaNada/YaniaNada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
