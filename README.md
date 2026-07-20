@@ -5,11 +5,11 @@ Hi, I’m Yania 👋 I'm passionate about harnessing the power of data to solve 
 
 🌱 About me: 
 
-I'm a life-long learner who believes in building solid foundations before diving into complex topics. Open to collaborate on data science projects where I can apply my skills as well as further enhance them. 
+I'm a life-long learner who believes in building solid foundations before diving into complex topics. I'm an experiential learner and I do projects to learn about topics. Open to collaborate on data science projects where I can apply my skills as well as further enhance them.
 
-I started off my Data Science journey by diving into Data Analytics through various personal and collaborative projects. I'm an experiential learner and I do projects to learn about topics. This GitHub repository is a collection of projects I've done to understand different concepts in my self-learning journey. 
+This GitHub repository is a collection of projects I've done to understand different concepts in my self-learning journey. 
 
-Aside from GitHub you can find some other projects in my Tableau and Hugging Face space:
+Aside from this GitHub repository you can find some other projects in my Tableau and Hugging Face space:
 
 - Visualization projects done to understand the capability of Tableau: [Tableau portfolio](https://public.tableau.com/app/profile/yania.nada/vizzes)
 - AI projects done to understand capability of agentic systems: [Hugging Face](https://huggingface.co/yania-n)
