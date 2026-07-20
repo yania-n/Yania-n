@@ -3,9 +3,9 @@ Hi, I’m Yania 👋 I'm passionate about harnessing the power of data to solve 
 📍 Barcelona, Spain
 
 
-🌱 About me: 
+🌟 About me: 
 
-I'm a life-long learner who believes in building solid foundations before diving into complex topics. I'm an experiential learner and I do projects to learn about topics. Open to collaborate on data science projects where I can apply my skills as well as further enhance them.
+I'm a life-long learner who believes in building solid foundations before diving into complex topics. I'm an experiential learner and I do projects to learn about topics.
 
 This GitHub repository is a collection of projects I've done to understand different concepts in my self-learning journey. 
 
@@ -19,7 +19,7 @@ Aside from this GitHub repository you can find some other projects in my Tableau
 I also enjoy sharing my knowledge and participating in presencial workshops to learn and expand my knowledge :)
 
 
-🌟 Career highlights:
+✨ Career highlights:✨
 
 - Worked in 3 different startups of different maturity levels in different capacity.
 - Was the 1st hire in my first startup experience where we built the business from scratch.
@@ -27,7 +27,9 @@ I also enjoy sharing my knowledge and participating in presencial workshops to l
 
 I'm a self-taught data scientist, currently wearing the hat of a product owner. And yes, I call myself a data scientist because I define myself by my skills not by the job title I carry. 
 
-(A friend once said to me, "your job title doesn't define your skills. It only tells - how you get paid.") 
+(A friend once said to me, "your job title doesn't define your skills. It only tells - how you get paid.")
+
+✨ Open to collaborate on data science projects where I can apply my skills as well as further enhance them.✨
 
 
 
