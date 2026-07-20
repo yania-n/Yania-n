@@ -14,7 +14,7 @@ Aside from this GitHub repository you can find some other projects in my Tableau
 - Visualization projects done to understand the capability of Tableau: [Tableau portfolio](https://public.tableau.com/app/profile/yania.nada/vizzes)
 - AI projects done to understand capability of agentic systems: [Hugging Face](https://huggingface.co/yania-n)
 
- _ If there's any project that interests you and you'd like to learn more about it, feel free to DM me on _ [Linkedin](https://www.linkedin.com/in/yanianada/).
+  If there's any project that interests you and you'd like to learn more about it, feel free to DM me on [Linkedin](https://www.linkedin.com/in/yanianada/).
   
 I also enjoy sharing my knowledge and participating in presencial workshops to learn and expand my knowledge :)
 
