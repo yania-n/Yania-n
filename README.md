@@ -1,4 +1,4 @@
-Hi, I’m [Yania](https://nadayania.wordpress.com/yania-nada/) 👋 I'm passionate about harnessing the power of data to solve real-world problems. I believe data can help create a better world, if used in the right way 🌏
+Hi, I’m Yania 👋 I'm passionate about harnessing the power of data to solve real-world problems. I believe data can help create a better world, if used in the right way 🌏
 
 📍 Barcelona, Spain
 
