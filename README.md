@@ -23,7 +23,7 @@ I also enjoy participating in presencial workshops to learn and expand my knowle
 - Was the 1st hire in my first startup experience where we built the business from scratch.
 - Was the 2nd hire in the second startup where I focused on driving growth.
 
-I'm self-taught data scientist, currently wearing the hat of a product owner. And yes, I call myself a data scientist because I define myself by my skills not by the job title I carry. (A friend once said to me, "your job title doesn't define your skills. It only tells - how you get paid.")
+I'm a self-taught data scientist, currently wearing the hat of a product owner. And yes, I call myself a data scientist because I define myself by my skills not by the job title I carry. (A friend once said to me, "your job title doesn't define your skills. It only tells - how you get paid.")
 
 📬 How to reach me: [Linkedin](https://www.linkedin.com/in/yanianada/) or email me: nadayania@gmail.com
 
