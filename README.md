@@ -20,14 +20,6 @@ Aside from this GitHub repository you can find some other projects in my Tableau
 I also enjoy sharing my knowledge and participating in presencial workshops to learn and expand my knowledge. Open to collaborate on data science projects where I can apply my skills and advance them further :)
 
 
-✨ Career highlights:✨
-
-- Worked in 3 different startups of different maturity levels in different capacity.
-- Was the 1st hire in my first startup experience where we built the business from scratch.
-- Was the 2nd hire in the second startup where I focused on driving growth.
-- Currently navigating a large MNC with +100k employees.
-
-
 
 
 <!---
